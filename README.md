@@ -140,7 +140,7 @@ Enhance `script.js` to add:
 ## 📞 Contact
 
 For questions or suggestions about this portfolio template:
-- Email: raginibartwal05@email.com
+- Email: raginibartwal05@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/ragini-bartwal/] 
 - GitHub: [https://github.com/rags-05]
 
